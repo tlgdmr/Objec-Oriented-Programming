@@ -1,0 +1,23 @@
+
+                 ■■ 
+                  ■ 
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+   ■■       ■       
+  ■  ■     ■ ■      
+   ■■     ■■ ■■     
+          ■ ■■      
+         ■■ ■■      
+        ■■  ■       
+        ■  ■        
+         ■■         
+                 ■ ■ 
+Number of Alive Cell For This State: 27
+Number of Dead Cell For This State: 373

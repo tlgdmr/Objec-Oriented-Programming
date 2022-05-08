@@ -1,0 +1,14 @@
+A:\ProjectForC#\TelephoneDiarySystem\TelephoneDiarySystem\bin\Debug\netcoreapp3.1\TelephoneDiarySystem.exe
+A:\ProjectForC#\TelephoneDiarySystem\TelephoneDiarySystem\bin\Debug\netcoreapp3.1\TelephoneDiarySystem.deps.json
+A:\ProjectForC#\TelephoneDiarySystem\TelephoneDiarySystem\bin\Debug\netcoreapp3.1\TelephoneDiarySystem.runtimeconfig.json
+A:\ProjectForC#\TelephoneDiarySystem\TelephoneDiarySystem\bin\Debug\netcoreapp3.1\TelephoneDiarySystem.runtimeconfig.dev.json
+A:\ProjectForC#\TelephoneDiarySystem\TelephoneDiarySystem\bin\Debug\netcoreapp3.1\TelephoneDiarySystem.dll
+A:\ProjectForC#\TelephoneDiarySystem\TelephoneDiarySystem\bin\Debug\netcoreapp3.1\TelephoneDiarySystem.pdb
+A:\ProjectForC#\TelephoneDiarySystem\TelephoneDiarySystem\obj\Debug\netcoreapp3.1\TelephoneDiarySystem.csproj.AssemblyReference.cache
+A:\ProjectForC#\TelephoneDiarySystem\TelephoneDiarySystem\obj\Debug\netcoreapp3.1\TelephoneDiarySystem.GeneratedMSBuildEditorConfig.editorconfig
+A:\ProjectForC#\TelephoneDiarySystem\TelephoneDiarySystem\obj\Debug\netcoreapp3.1\TelephoneDiarySystem.AssemblyInfoInputs.cache
+A:\ProjectForC#\TelephoneDiarySystem\TelephoneDiarySystem\obj\Debug\netcoreapp3.1\TelephoneDiarySystem.AssemblyInfo.cs
+A:\ProjectForC#\TelephoneDiarySystem\TelephoneDiarySystem\obj\Debug\netcoreapp3.1\TelephoneDiarySystem.csproj.CoreCompileInputs.cache
+A:\ProjectForC#\TelephoneDiarySystem\TelephoneDiarySystem\obj\Debug\netcoreapp3.1\TelephoneDiarySystem.dll
+A:\ProjectForC#\TelephoneDiarySystem\TelephoneDiarySystem\obj\Debug\netcoreapp3.1\TelephoneDiarySystem.pdb
+A:\ProjectForC#\TelephoneDiarySystem\TelephoneDiarySystem\obj\Debug\netcoreapp3.1\TelephoneDiarySystem.genruntimeconfig.cache
